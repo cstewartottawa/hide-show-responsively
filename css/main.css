@@ -24,9 +24,10 @@ html {
     text-align: center;
   }
 
-  @media only screen and (min-width: 38em) {
-
-  }
+@media only screen and (min-width: 38em) {
+  nav li {
+    display: none;
+}
 
 
   @media only screen and (min-width: 60em) {
